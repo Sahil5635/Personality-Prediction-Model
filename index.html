@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Questionnaire</title>
+    <!--<link rel="stylesheet" type="text/css" href="style.css">-->
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='style.css') }}">
+    <script src="{{ url_for('static',filename='script.js') }}"> </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Questionnaire</h1>
+        <div id="questionnaire">
+            <h2 id="question">EXT1: I am the life of the party.</h2>
+            <form>
+                <div class="options">
+                    <input type="radio" id="option1" name="option" value="Strongly Disagree" required>
+                    <label for="option1">Strongly Disagree</label>
+                    <input type="radio" id="option2" name="option" value="Disagree">
+                    <label for="option2">Disagree</label>
+                    <input type="radio" id="option3" name="option" value="Neutral">
+                    <label for="option3">Neutral</label>
+                    <input type="radio" id="option4" name="option" value="Agree">
+                    <label for="option4">Agree</label>
+                    <input type="radio" id="option5" name="option" value="Strongly Agree">
+                    <label for="option5">Strongly Agree</label>
+                </div>
+                <button type="button" onclick="submitForm()" id="submit">Next</button>
+            </form>
+        </div>
+         <pre id="response"></pre>
+        <div id="result" style="display: none;">
+            <h2>Result</h2>
+            <div id="prediction-result"></div>
+        </div>
+        <div id="cluster-description"></div>
+        <button type="button" onclick="makePrediction()" id="finish" style="display: none;">Finish</button>
+    </div>
+       <div id="link-container"></div>
+</body>
+</html>
