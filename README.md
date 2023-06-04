@@ -16,3 +16,4 @@ neuroticism (sensitive/nervous vs. resilient/confident)
 (Wikipedia)
 
 A video that simply explains the big five factor theory. Youtube
+![download](https://github.com/Sahil5635/Personality-Prediction-Model/assets/95239261/a5e9a278-e177-48be-958d-404a0d5b3d5e)
