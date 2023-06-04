@@ -17,3 +17,14 @@ The Big Five personality traits is a suggested taxonomy, or grouping, for person
 A video that simply explains the big five factor theory. https://www.youtube.com/watch?v=IB1FVbo8TSs&pp=ygUYYmlnIDUgcGVyc29uYWxpdHkgdHJhaXRz
 
 ![download](https://github.com/Sahil5635/Personality-Prediction-Model/assets/95239261/a5e9a278-e177-48be-958d-404a0d5b3d5e)
+
+# Project Overview:
+
+- Objective: Develop a predictive model to assign individuals to specific personality clusters based on their responses to an online personality test.
+- Data Collection: Collected data through an interactive online personality test.
+- Data Preprocessing: Ensured data quality, handled missing values, and prepared the data for analysis.
+- Model Selection: Chose the k-means clustering algorithm for personality prediction.
+- Result Interpretation: Implemented an interactive web-based approach to provide personalized results to users.
+- Implications: Findings have applications in personalized marketing, recommendation systems, mental health interventions, and social network analysis.
+- GitHub Hosting: Plan to host the project code and resources on GitHub for collaboration and further development.
+- Conclusion: The project bridges personality psychology and machine learning, providing insights into personality traits and potential areas of development.
