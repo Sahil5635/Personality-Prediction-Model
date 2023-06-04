@@ -28,3 +28,9 @@ A video that simply explains the big five factor theory. https://www.youtube.com
 - Implications: Findings have applications in personalized marketing, recommendation systems, mental health interventions, and social network analysis.
 - GitHub Hosting: Plan to host the project code and resources on GitHub for collaboration and further development.
 - Conclusion: The project bridges personality psychology and machine learning, providing insights into personality traits and potential areas of development.
+
+# Project Snapshots
+![Screenshot (1352)](https://github.com/Sahil5635/Personality-Prediction-Model/assets/95239261/314e362e-91dd-4fff-a942-7e7c07abbe63)
+
+
+![Screenshot (1355)](https://github.com/Sahil5635/Personality-Prediction-Model/assets/95239261/ee6be50f-fafe-4652-b9ed-e2df03ec95de)
